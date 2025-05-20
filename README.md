@@ -1,3 +1,10 @@
+# Fork of [yolov8-tfjs](https://github.com/Hyuto/yolov8-tfjs) repo adapted to run yolo11.
+
+----
+The following readme is from the original repo.
+
+----
+
 # Object Detection using YOLOv8 and Tensorflow.js
 
 <p align="center">
